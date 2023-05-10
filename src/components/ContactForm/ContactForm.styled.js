@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 export const Form = styled.form`
-  /* display: flex; */
   flex-direction: column;
   padding: 40px 0px;
   margin-bottom: 30px;
@@ -15,5 +14,6 @@ export const Form = styled.form`
     padding: 7px 7px;
     border-radius: 8px;
     background-color: green;
+    color: #fff;
   }
 `;

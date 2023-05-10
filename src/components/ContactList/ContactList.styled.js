@@ -5,6 +5,7 @@ export const Item = styled.li`
   justify-content: space-between;
   width: 300px;
   margin-bottom: 10px;
+
   & button {
     border: none;
     padding: 5px 7px;
